@@ -1,7 +1,3 @@
-//相遇时间
-// 获取标签元素
-const num = document.querySelector('.num'); // 插入文字内容 
-num.innerText = '2003.03.01';
 
 // ============== 实时状态栏时间 + 动态电量 ==============
 let batteryLevel = 99;
