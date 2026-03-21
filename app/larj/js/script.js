@@ -1,3 +1,8 @@
+//相遇时间
+// 获取标签元素
+const songTitle = document.querySelector('.song-title'); // 插入文字内容 
+songTitle.innerText = '青春再见 \n白举纲';
+
 // ============== 实时状态栏时间 + 动态电量 ==============
 let batteryLevel = 99;
 const batteryIcon = document.getElementById('batteryIcon');
